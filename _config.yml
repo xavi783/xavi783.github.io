@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Xavi's Blog
 locale:           en_US
 url:              
 
@@ -26,12 +26,12 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Xavi SC
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
+  bio: "The aim of this project is to build a blog to publish some interesting reflections about hacking, discovering new insights about data, improve the workflow to get more discoveries. To sum up, publish everything related to my passion and job, data science and programming."
+  email: xavi783@gmail.com
   disqus-shortname: 
-  twitter: #username
+  twitter: xavi_scr
   facebook: #username
   google:
     plus: #username
@@ -40,9 +40,9 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: xavi783
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: "javier-serrano-crespo/a5/155/405"
   xing: #username
   instagram: #username
   lastfm: #username
