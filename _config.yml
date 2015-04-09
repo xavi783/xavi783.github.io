@@ -27,7 +27,7 @@ kramdown:
 # Site owner
 owner:
   name: Xavi SC
-  avatar: favicon.png
+  avatar: Enso.svg
   bio: "The aim of this project is to build a blog to publish some interesting reflections about hacking, discovering new insights about data, improve the workflow to get more discoveries. To sum up, publish everything related to my passion and job, data science and programming."
   email: xavi783@gmail.com
   disqus-shortname: 
