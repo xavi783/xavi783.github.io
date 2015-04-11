@@ -20,34 +20,48 @@ In this section, we will cover how to build a project in the google's developer 
 
 * Go to: https://console.developers.google.com
 * Click on "Create Project"
-	<figure><img src="/images/20150411/en/step1.png" alt="Create_Project"></figure>
+<figure>
+	<img src="/images/posts/20150411/en/step1.png" alt="Create_Project">
+</figure>
 * Look for "Custom Search API" in the API section and click on "Enable API"
-	<figure class="half">
-		<img src="/images/20150411/en/step2.png" alt="Enable_API_1">
-		<img src="/images/20150411/en/step3.png" alt="Enable_API_2">
-	</figure>
+<figure class="half">
+	<img src="/images/posts/20150411/en/step2.png" alt="Enable_API_1">
+	<img src="/images/posts/20150411/en/step3.png" alt="Enable_API_2">
+</figure>
 * Go to "Credentials" and click on "Create New Key" and choose "Server Key"
-	<figure><img src="/images/20150411/en/step4.png" alt="Key_API_1"></figure>
+<figure>
+	<img src="/images/posts/20150411/en/step4.png" alt="Key_API_1">
+</figure>
 * Before that, You have to copy "API key" field which will be the neccesary code to be able to connect google's custom search API and save it for later.
-	<figure><img src="/images/20150411/en/step5.png" alt="Key_API_2"></figure>
+<figure>
+	<img src="/images/posts/20150411/en/step5.png" alt="Key_API_2">
+</figure>
 
 #### Getting a Google's Search Engine
 
 One disadvantage of this method is that you also need to build a search engine. Google enables you to make your own search engine for looking any topic under certain URLs. The steps, to achieve that, are listed here:
 
 * Go to: https://cse.google.com/cse/all and click on "New search engine" or "Add" button
-	<figure><img src="/images/20150411/en/2_step1.png" alt="Create_Engine"></figure>
+<figure>
+	<img src="/images/posts/20150411/en/2_step1.png" alt="Create_Engine">
+</figure>
 * Insert URLs for building your search domain (those URLs which will be scanned)
-	<figure><img src="/images/20150411/en/2_step2.png" alt="Build_Engine"></figure>
+<figure>
+	<img src="/images/posts/20150411/en/2_step2.png" alt="Build_Engine">
+</figure>
 * Once you have created the engine go to "Edit search engine" 
-	<figure><img src="/images/20150411/en/2_step4.png" alt="Edit_Engine_1"></figure>
+<figure>
+	<img src="/images/posts/20150411/en/2_step4.png" alt="Edit_Engine_1">
+</figure>
 and you will seee someting like this:
-	<figure><img src="/images/20150411/en/2_step3.png" alt="Edit_Engine_2"></figure>
+<figure>
+	<img src="/images/posts/20150411/en/2_step3.png" alt="Edit_Engine_2">
+</figure>
 Then, push "search engine ID" button for getting the engine ID (and save it for later)
 
 #### Making our application
 
-We will nedd some Python libraries to be successful, import them:
+We will need some Python libraries to be successful, import them:
 
 {% highlight python %}
 import json
@@ -91,12 +105,12 @@ def searchGoogle(terms='lectures',configFile='customsearch.json',**kwargs):
 In that function, we see the next parts:
 
 * Loading json config. file where `developerKey` is our API key and `cx` our engine ID. (so we will need a *.json file like this)
-	{% highlight json %}
-	{
-	    "developerKey": "AIza................................n4",
-	    "cx":"034......................a-k"
-	}
-	{% endhighlight %}
+{% highlight json %}
+{
+    "developerKey": "AIza................................n4",
+    "cx":"034......................a-k"
+}
+{% endhighlight %}
 * Make the custom search service `service = build("customsearch",...`
 * Request for some terms `res = service.cse().list(q=terms,...`
 * Return a well-formatted object `return QueryResult(res)`
