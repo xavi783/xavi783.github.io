@@ -28,6 +28,7 @@ In this section, we will cover how to build a project in the google's developer 
 	<img src="/images/posts/20150411/en/step2.png" alt="Enable_API_1">
 	<img src="/images/posts/20150411/en/step3.png" alt="Enable_API_2">
 </figure>
+
 * Go to "Credentials" and click on "Create New Key" and choose "Server Key"
 <figure>
 	<img src="/images/posts/20150411/en/step4.png" alt="Key_API_1">
