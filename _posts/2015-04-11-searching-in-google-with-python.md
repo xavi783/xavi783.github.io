@@ -7,7 +7,7 @@ tags: [google, python, APIs, text processing]
 image:
   feature:
 date: 2015-04-11T16:48:18+02:00
-comments: trues
+comments: true
 ---
 
 In this post we will cover how to connect to Google Custom Search API for retrieving google's search results about a particular topic.
@@ -24,11 +24,12 @@ In this section, we will cover how to build a project in the google's developer 
 	<img src="/images/posts/20150411/en/step1.png" alt="Create_Project">
 </figure>
 * Look for "Custom Search API" in the API section and click on "Enable API"
-<figure class="half">
-	<img src="/images/posts/20150411/en/step2.png" alt="Enable_API_1">
-	<img src="/images/posts/20150411/en/step3.png" alt="Enable_API_2">
+<figure>
+	<img src="/images/posts/20150411/en/step2.png" alt="Enable_API_1"></img>
 </figure>
-
+<figure>
+	<img src="/images/posts/20150411/en/step3.png" alt="Enable_API_2"></img>
+</figure>
 * Go to "Credentials" and click on "Create New Key" and choose "Server Key"
 <figure>
 	<img src="/images/posts/20150411/en/step4.png" alt="Key_API_1">
