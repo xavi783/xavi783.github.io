@@ -10,8 +10,6 @@ image:
 date: 2015-04-11T16:48:18+02:00
 ---
 
-# Searching in Google with Python
-
 In this post we will cover how to connect to Google Custom Search API for retrieving google's search results about a particular topic.
 
 The first step is to create a project. In this context, a project is the google's side application. I mean, if we make an application for retriving data, we also need to register it in  developers site to be able to comsume google's services.
