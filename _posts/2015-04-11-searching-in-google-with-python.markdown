@@ -2,7 +2,7 @@
 layout: post
 title: "Searching in Google With Python"
 modified:
-categories: google, python, APIs, text processing
+categories:
 tags: [google, python, APIs, text processing]
 image:
   feature:
