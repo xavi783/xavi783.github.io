@@ -376,6 +376,11 @@ $button-size: 1.5rem;
 }
 
 /* Author sidebar */
+.wrapper-bio-photo {
+	display: flex;
+	flex-flow: column;
+	align-items: center;
+}
 .about-bio-photo {
 	display: block;
 	max-width: 110px;

@@ -12,7 +12,7 @@ comments: false
 author: xavi_sc
 ---
 
-<figure style="text-align:center;">
+<figure class="wrapper-bio-photo">
 	<img class="about-bio-photo" src="/images/bio-photo.jpg" alt="xavi bio photo">
 </figure>
 
