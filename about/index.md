@@ -12,10 +12,6 @@ comments: false
 author: xavi_sc
 ---
 
-<figure>
-	<img src="/images/bio-photo.jpg" class="about-bio-photo" alt="xavi bio photo">
-</figure>
-
 Hi there! I introduce myself, I'm a data scientist with more than 6 years of experience in finance, working in areas like risk evaluation, asset management and others. But I'm not only interested on financial areas, I also like data science in general and I'm involved in some related projects like kaggle competitions or IoT projects.
 
 But this is not just a work, I'm also an enthusiast of robotics and I'm just working in a project with some colleagues. We are trying to develop an autonomous system based on Raspberry Pi and Arduino using mobile devices for control it. 
@@ -25,3 +21,5 @@ Finally, I'd like to talk about this web page, the aim of building this blog is 
 I hope you enjoy this blog.
 
 Regards.
+
+Javi SC.
