@@ -9,11 +9,8 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 share: false  
 comments: false
+author: xavi_sc
 ---
-
-<figure class="mobile">
-	<img src="/images/bio-photo.jpg" alt="Xavi's Logo">
-</figure>
 
 Hi there! I introduce myself, I'm a data scientist with more than 6 years of experience in finance, working in areas like risk evaluation, asset management and others. But I'm not only interested on financial areas, I also like data science in general and I'm involved in some related projects like kaggle competitions or IoT projects.
 
