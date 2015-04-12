@@ -12,8 +12,8 @@ comments: false
 author: xavi_sc
 ---
 
-<figure class="about-bio-photo">
-	<img src="/images/bio-photo.jpg" alt="xavi bio photo">
+<figure>
+	<img class="about-bio-photo" src="/images/bio-photo.jpg" alt="xavi bio photo">
 </figure>
 
 Hi there! I introduce myself, I'm a data scientist with more than 6 years of experience in finance, working in areas like risk evaluation, asset management and others. But I'm not only interested on financial areas, I also like data science in general and I'm involved in some related projects like kaggle competitions or IoT projects.
