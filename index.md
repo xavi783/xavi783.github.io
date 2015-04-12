@@ -1,7 +1,7 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+excerpt: 
+tags: [data science, xavi, technology, AI, big data, robotics]
 image:
   feature: sample-image-1.jpg
   credit: WeGraphics
