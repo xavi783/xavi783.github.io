@@ -1,4 +1,4 @@
-1/* ==========================================================================
+/* ==========================================================================
    Page layout
    ========================================================================== */
 
@@ -376,6 +376,15 @@ $button-size: 1.5rem;
 }
 
 /* Author sidebar */
+.about-bio-photo {
+	display: block;
+	max-width: 110px;
+	@include rounded(150px);
+	@media #{$small} {
+		display: none;
+	}
+}
+
 .article-author-side {
 	display: none;
 	.bio-photo {
