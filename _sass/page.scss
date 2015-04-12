@@ -378,10 +378,8 @@ $button-size: 1.5rem;
 /* Author sidebar */
 .about-bio-photo {
 	display: block;
-	img {
-		max-width: 110px;
-		@include rounded(150px);
-	}
+	max-width: 110px;
+	border-radius: 50%;
 	@media #{$small} {
 		display: none;
 	}
