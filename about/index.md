@@ -12,7 +12,7 @@ comments: false
 author: xavi_sc
 ---
 
-<figure>
+<figure style="text-align:center;">
 	<img class="about-bio-photo" src="/images/bio-photo.jpg" alt="xavi bio photo">
 </figure>
 
@@ -25,5 +25,3 @@ Finally, I'd like to talk about this web page, the aim of building this blog is 
 I hope you enjoy this blog.
 
 Regards.
-
-Javi SC.
