@@ -70,3 +70,18 @@
 b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a {
 	@include transition(all .2s ease);
 }
+
+.image-credit-2 {
+    margin-top: 0.25em;
+    margin-bottom: 0px;
+    font-size: 1rem;
+    color: #80807E;
+    width: 100%;
+    font-style: italic;
+    line-height: 1.3;
+    display: block;
+    a {
+    	color: blue;
+    	text-decoration: underline;
+    }
+}
