@@ -9,7 +9,7 @@ image:
 date: 2015-05-01T16:48:18+02:00
 comments: true
 ---
-
+is
 New experiences in my live push me to write this post. Recently, I have had the chance of participate in the production of a short film called [Destinos](https://www.facebook.com/destinoscorto). I became executive producer of Destinos because of fate and this is the kind of things which make you think that all steps in your live have led you to this point.
 <figure>
 	<img src="/images/posts/20150501/imgen_destinos1.jpg" alt="Flowers Scene">
@@ -17,7 +17,7 @@ New experiences in my live push me to write this post. Recently, I have had the 
 </figure>
 All started when I met the project. I thought that the story had the neccesary strength to be a great story but the fate wanted the story wouldn't have been made before. In that moment, I didn't know how important would be this story in my life. Today, a few days after finished the filming. I have some reflections to make about all the things which this experience have teached me.
 
-First, all is about people, No progress can be made if there aren't great people behind. It's something simple but we often forget how important the people is. Allow me to tell you something about the project, the filming took more than 12 hours per day and more than 5 days with a team around 25 people and all of them worked for free, without a single coin in their pockets at the end of the day and only one motivation: Making the best effort to get the best short film.
+First, all is about people, No progress can be made if there aren't great people behind. It's something simple but we often forget how important the people are. Allow me to tell you something about the project, the filming took more than 12 hours per day and more than 5 days with a team around 25 people and all of them worked for free, without a single coin in their pockets at the end of the day and only one motivation: Making the best effort to get the best short film.
 
 Some of you will say "Ey! This is not creativity, This is only hard work!", and yes, you're right but I believe that creativity is something that only can be realized with a great effort, so let's take a glance to the results and how these have been possible.
 
