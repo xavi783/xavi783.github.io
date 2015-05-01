@@ -11,7 +11,9 @@ comments: true
 ---
 
 New experiences in my live push me to write this post. Recently, I have had the chance of participate in the production of a short film called [Destinos](https://www.facebook.com/destinoscorto). I became executive producer of Destinos because of fate and this is the kind of things which make you think that all steps in your live have led you to this point.
-
+<figure>
+	<img src="/images/posts/20150501/imgen_destinos1.jpg" alt="Imagen 1">
+</figure>
 All started when I met the project. I thought that the story had the neccesary strength to be a great story but the fate wanted the story wouldn't have been made before. In that moment, I didn't know how important would be this story in my life. Today, a few days after finished the filming. I have some reflections to make about all the things which this experience have teached me.
 
 First, all is about people, No progress can be made if there aren't great people behind. It's something simple but we often forget how important the people is. Allow me to tell you something about the project, the filming took more than 12 hours per day and more than 5 days with a team around 25 people and all of them worked for free, without a single coin in their pockets at the end of the day and only one motivation: Making the best effort to get the best short film.
