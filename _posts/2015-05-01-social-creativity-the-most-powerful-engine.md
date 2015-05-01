@@ -5,9 +5,7 @@ modified:
 categories:
 tags: [social, creativity, engine, power]
 image:
-  feature: imgen_destinos1.jpg
-  credit: "Victor Prieto"
-  creditlink: https://www.facebook.com/VPrietoFoto
+  feature: 
 date: 2015-05-01T16:48:18+02:00
 comments: true
 ---
