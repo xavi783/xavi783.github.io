@@ -19,7 +19,7 @@ All started when I met the project. I thought that the story had the neccesary s
 
 First, all is about people, No progress can be made if there aren't great people behind. It's something simple but we often forget how important the people are. Allow me to tell you something about the project, the filming took more than 12 hours per day and more than 5 days with a team around 25 people and all of them worked for free, without a single coin in their pockets at the end of the day and only one motivation: Making the best effort to get the best short film.
 
-Some of you will say "Ey! This is not creativity, This is only hard work!", and yes, you're right but I believe that creativity is something that only can be realized with a great effort, so let's take a glance to the results and how these have been possible.
+Some of you will say "Ey! This is not creativity, This is only hard work!", and yes, you're right but I believe that creativity is something that only can be make with a great effort, so let's take a glance to the results and how these have been possible.
 
 First of all we need the seed to get the tree, in this case the seed was a great story and eventually the promise of a great final product, to sum up the seed is **motivation**. You can`t be creative if you don't have enough motivation. But only motivation is just not enough.
 
